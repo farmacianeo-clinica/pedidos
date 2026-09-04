@@ -61,6 +61,7 @@ function doPost(e) {
         pedido.tipo || "",
         pedido.sector || "",
         pedido.paciente || "",
+        pedido.obraSocial || "",
         pedido.solicitante || "",
         pedido.prioridad || "",
         item.id || "(manual)",

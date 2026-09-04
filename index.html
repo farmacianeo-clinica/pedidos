@@ -287,6 +287,10 @@ footer.app-footer{text-align:center;font-size:11px;color:var(--muted);padding:18
       <label for="paciente">Paciente</label>
       <input type="text" id="paciente" placeholder="Nombre del paciente / cama">
     </div>
+    <div class="field" id="fieldObraSocial" style="display:none;">
+      <label for="obraSocial">Obra Social</label>
+      <input type="text" id="obraSocial" placeholder="Nombre de la obra social">
+    </div>
     <div class="field">
       <label>Prioridad</label>
       <div class="pills" id="pillsPrioridad">
@@ -659,6 +663,7 @@ function bindEvents(){
       $("#hdrTipo").textContent = tipoPedido === "descartables" ? "Descartables" : "Medicamentos";
       $("#catalogTitle").textContent = tipoPedido === "descartables" ? "Catálogo de descartables" : "Catálogo de medicamentos";
       $("#fieldPaciente").style.display = tipoPedido === "medicamentos" ? "block" : "none";
+      $("#fieldObraSocial").style.display = tipoPedido === "medicamentos" ? "block" : "none";
       $("#buscador").value = "";
       renderCatalog();
       updateSummary();
@@ -739,6 +744,7 @@ function resetForm(){
   $("#solicitante").value = "";
   $("#observaciones").value = "";
   $("#paciente").value = "";
+  $("#obraSocial").value = "";
   $("#sector").value = "";
   $("#buscador").value = "";
   prioridad = "normal";
@@ -768,6 +774,7 @@ function buildResumenTexto(){
   lineas.push(`Sector: ${$("#sector").value || "-"}`);
   if(tipoPedido === "medicamentos"){
     lineas.push(`Paciente: ${$("#paciente").value.trim() || "-"}`);
+    lineas.push(`Obra Social: ${$("#obraSocial").value.trim() || "-"}`);
   }
   lineas.push(`Prioridad: ${({normal:"Normal",urgente:"Urgente",muyurgente:"Muy urgente"})[prioridad]}`);
   lineas.push("");
@@ -807,6 +814,7 @@ function buildPedidoObj(){
     solicitante: $("#solicitante").value.trim(),
     sector: $("#sector").value,
     paciente: tipoPedido === "medicamentos" ? $("#paciente").value.trim() : null,
+    obraSocial: tipoPedido === "medicamentos" ? $("#obraSocial").value.trim() : null,
     prioridad,
     items: getSelectedItems(),
     observaciones: $("#observaciones").value.trim(),

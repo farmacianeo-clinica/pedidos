@@ -29,7 +29,7 @@ Los ítems que alguien agregue a mano con "+ Agregar ítem manualmente" nunca va
 Cargá esta fila de encabezados:
 
 ```
-fecha_hora | pedido_id | tipo | sector | paciente | solicitante | prioridad | item_id | item_nombre | cantidad | stock_resultante | observaciones
+fecha_hora | pedido_id | tipo | sector | paciente | obra_social | solicitante | prioridad | item_id | item_nombre | cantidad | stock_resultante | observaciones
 ```
 
 El script va a ir agregando una fila por cada ítem pedido, automáticamente. Ahí queda la "contabilidad": quién pidió, qué, cuándo, y en cuánto quedó el stock después de ese pedido.
