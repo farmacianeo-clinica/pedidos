@@ -1,0 +1,712 @@
+id,nombre,unidad,categoria,tipo,stock_actual
+c385,SPONGOSTAN,un,Suturas,descartables,25
+c398,SURGICEL,un,Suturas,descartables,168
+c386,SUTURA BIOSYN 0 (MONOCRYL),un,Suturas,descartables,27
+c1987,SUTURA BIOSYN 2/0,un,Suturas,descartables,36
+c1138,SUTURA BIOSYN 3/0 AGUJA RED.,un,Suturas,descartables,36
+c769,SUTURA BIOSYN 3/0 AGUJA TRIANGULAR,un,Suturas,descartables,42
+c392,SUTURA BIOSYN 4/0,un,Suturas,descartables,31
+c393,SUTURA BIOSYN 5/0,un,Suturas,descartables,36
+c459,SUTURA CATGUT Nº 0,un,Suturas,descartables,0
+c460,SUTURA CATGUT Nº 1,un,Suturas,descartables,168
+c461,SUTURA CATGUT Nº 2 (LENTO),un,Suturas,descartables,240
+c1988,SUTURA CROMICO,un,Suturas,descartables,0
+c381,SUTURA CERA PARA HUESO,un,Suturas,descartables,12
+c1989,SUTURA DE LINO 0,un,Suturas,descartables,19
+c495,SUTURA LINO 100,un,Suturas,descartables,17
+c489,SUTURA LINO 20,un,Suturas,descartables,5
+c490,SUTURA LINO 30,un,Suturas,descartables,9
+c491,SUTURA LINO 40 (SOBRES),un,Suturas,descartables,8
+c492,SUTURA LINO 50,un,Suturas,descartables,15
+c493,SUTURA LINO 60,un,Suturas,descartables,16
+c494,SUTURA LINO 80,un,Suturas,descartables,8
+c1132,SUTURA MONOCRYL 0 (NARANJA),un,Suturas,descartables,0
+c387,SUTURA MONONYLON 2/0 AGUJA TRIANGULAR,un,Suturas,descartables,67
+c388,SUTURA MONONYLON 3/0 AGUJA TRIANGULAR,un,Suturas,descartables,26
+c389,SUTURA MONONYLON 4/0 AGUJA TRIANGULAR,un,Suturas,descartables,38
+c391,SUTURA MONONYLON 5/0 AGUJA TRIANGULAR,un,Suturas,descartables,2
+c395,SUTURA MONONYLON 6/0 AGUJA TRIANGULAR,un,Suturas,descartables,24
+c771,SUTURA POLICRYL 4/0,un,Suturas,descartables,65
+c1992,PDS,un,Suturas,descartables,24
+c360,SUTURA PROLENE 0,un,Suturas,descartables,36
+c1991,SUTURA PROLENE 2 TRAUMA 77MM,un,Suturas,descartables,10
+c1990,SUTURA PROLENE 2 TRAUMA 75MM,un,Suturas,descartables,36
+c394,SUTURA PROLENE 1,un,Suturas,descartables,28
+c361,SUTURA PROLENE 2/0,un,Suturas,descartables,7
+c376,SUTURA PROLENE 3/0 PUNTA REDONDA,un,Suturas,descartables,79
+c1962,SUTURA PROLENE 3/0 PUNTA TRIANGULAR,un,Suturas,descartables,30
+c1923,SUTURA PROLENE 4/0 PUNTA REDONDA,un,Suturas,descartables,0
+c378,SUTURA PROLENE 4/0 PUNTA TRIANGULAR,un,Suturas,descartables,37
+c10157,SUTURA PROLENE 5/0,un,Suturas,descartables,24
+c10104,SUTURA PROLENE 6/0,un,Suturas,descartables,9
+c1677,SUTURA REABSORVIBLE V-LOC 180 0 30CM,un,Suturas,descartables,9
+c1678,SUTURA REABSORVIBLE V-LOC 180 3/0 V-20,un,Suturas,descartables,0
+c10165,SUTURA SEDA 2/0 AGUJA REDONDA,un,Suturas,descartables,24
+c226,SUTURA SEDA 3/0 AGUJA REDONDA,un,Suturas,descartables,82
+c193,SUTURA SEDA 4/0 AGUJA REDONDA,un,Suturas,descartables,59
+c379,SUTURA SEDA 5/0 AGUJA REDONDA,un,Suturas,descartables,56
+c10166,SUTURA SEDA 6/0 AGUJA TRIANGULAR,un,Suturas,descartables,12
+c358,SUTURA VICRYL 0 (GL-124 PTA REDONDA 26 MM),un,Suturas,descartables,945
+c1741,SUTURA VICRYL 0 40MM (TRAUMATOLOGOS),un,Suturas,descartables,74
+c809,SUTURA VICRYL 1 (CL-803 PTA REDONDA 40 MM),un,Suturas,descartables,0
+c356,SUTURA VICRYL 2 (CL-937 PTA TRIANGULAR 40 MM),un,Suturas,descartables,336
+c1546,SUTURA VICRYL 2 (PUNTA REDONDA 40 MM),un,Suturas,descartables,180
+c359,SUTURA VICRYL 2/0 ( PUNTA REDONDA 26 MM),un,Suturas,descartables,1
+c300,SUTURA VICRYL 3/0 ( PUNTA REDONDA 26 MM),un,Suturas,descartables,317
+c1935,SUTURA VICRYL 3/0 ( PUNTA REDONDA 20 MM),un,Suturas,descartables,0
+c1936,SUTURA VICRYL 3/0 ( PUNTA REDONDA 37 MM),un,Suturas,descartables,0
+c10106,SUTURA VICRYL 4/0 ( PUNTA REDONDA 26 MM),un,Suturas,descartables,160
+c354,SUTURA VICRYL 5/0 ( AGUJA 15 MM),un,Suturas,descartables,133
+c353,SUTURA VICRYL 6/0,un,Suturas,descartables,74
+c1883,SUTURA MULTIFILAMENTO 2-0 (PUNTA REDONDA 27 MM),un,Suturas,descartables,72
+c1884,SUTURA MULTIFILAMENTO 3-0,un,Suturas,descartables,0
+c428,ABBOCATH 14,un,A,descartables,53
+c429,ABBOCATH 16,un,A,descartables,358
+c10647,ABBOCATH 18,un,A,descartables,127
+c1032,ABBOCATH 20,un,A,descartables,1604
+c148,ABBOCATH 22,un,A,descartables,1040
+c276,ABBOCATH 24,un,A,descartables,408
+c1459,ACIDO ACETICO,un,A,descartables,12
+g2,AGUA DE IRRIGACION X 1 LT (AGUA P/INYECTABLES),un,A,descartables,106
+c287,AGUA DE IRRIGACION X 2 LT (AGUA P/INYECTABLES),un,A,descartables,205
+c1061,AGUA DESTILADA AMP,un,A,descartables,130
+c1669,AGUA OXIGENADA X 1 LTS,un,A,descartables,0
+c430,AGUA OXIGENADA X 5 LTS,un,A,descartables,0
+c10206,AGUJA 16/5,un,A,descartables,2599
+c10207,AGUJA 25/8,un,A,descartables,1950
+c1126,AGUJA 27 G PUNTA LAPIZ ESPINAL,un,A,descartables,410
+c839,AGUJA 27 G PUNTA LAPIZ (EXTRA LARGA)ESPINAL,un,A,descartables,95
+g3,AGUJA 30 G (OFTAMOLOGIA),un,A,descartables,100
+c1056,AGUJA 40/12 (TROCAR),un,A,descartables,700
+c117,AGUJA 40/8,un,A,descartables,715
+c118,AGUJA 50/8,un,A,descartables,135
+c1697,AGUJA CURVA 1/2 CIRCULO LANCEOLADA G 211/10,un,A,descartables,0
+c1694,AGUJA CURVA 1/2 CIRCULO LANCEOLADA G 211/4,un,A,descartables,0
+c1695,AGUJA CURVA 1/2 CIRCULO LANCEOLADA G 211/6,un,A,descartables,0
+c1696,AGUJA CURVA 1/2 CIRCULO LANCEOLADA G 211/8,un,A,descartables,0
+c433,AGUJA ESPINAL 19 G,un,A,descartables,61
+c434,AGUJA ESPINAL 20 G,un,A,descartables,43
+c1200,AGUJA ESPINAL 25 G,un,A,descartables,157
+c1693,AGUJA RECTA LANCEOLADA A 201/3,un,A,descartables,0
+c1692,AGUJA REDONDA 1/2 CIRCULO G 311/9,un,A,descartables,0
+c431,AGUJA TERUMO 25/8,un,A,descartables,600
+c1367,ALCOHOL EN GEL,un,A,descartables,8
+c435,ALCOHOL IODADO X 1 LT,un,A,descartables,6
+c135,ALCOHOL X 1 LITRO,un,A,descartables,231
+c121,ALGODON X 500 G,un,A,descartables,62
+c292,AMINOACIDO 10% X 500 ML,un,A,descartables,8
+c396,AZUL DE METILENO,un,A,descartables,0
+c1682,AZUL PATENTE,un,A,descartables,2
+c1540,BAJALENGUA ADULTO,un,B,descartables,1100
+c1298,BAJALENGUA PEDIATRICO,un,B,descartables,1300
+c1248,BARBIJO NK95,un,B,descartables,320
+c1454,BARBIJOS C/ELASTICO,un,B,descartables,4055
+c10374,BARBIJOS FISELINA,un,B,descartables,2860
+c1273,BARBIJOS QX C/TIRAS,un,B,descartables,2025
+c10373,BATAS DESCARTABLES,un,B,descartables,382
+c441,BATERFLY Nº 19,un,B,descartables,239
+c442,BATERFLY Nº 21,un,B,descartables,196
+c443,BATERFLY Nº 25,un,B,descartables,65
+c436,BISTURI Nº 11,un,B,descartables,588
+c437,BISTURI Nº 15,un,B,descartables,711
+c438,BISTURI Nº 24,un,B,descartables,911
+c439,BOLSA COLECTORA ADULTO,un,B,descartables,0
+c440,BOLSA COLECTORA PEDIATRICO,un,B,descartables,36
+c1455,BOLSA COLOSTOMIA PEDIATRICA,un,B,descartables,39
+c1607,BOLSA DE ASPIRACION BLANCA ECOVAC,un,B,descartables,0
+c10150,BOLSA DE COLOSTOMIA ADULTO,un,B,descartables,61
+g4,BOLSA MORGUERA,un,B,descartables,14
+g5,BOTAS ALTAS DESCARTABLE PARA QX,un,B,descartables,3
+c1729,"BOTON GASTRICO FR 18 1,20 CM (350-18-12)",un,B,descartables,2
+c444,CAL SODADA,un,C,descartables,24
+c1740,"CANULA NASAL DE ALTO FLUJO ""L"" (240-L)",un,C,descartables,14
+c1739,"CANULA NASAL DE ALTO FLUJO ""M"" (240-M)",un,C,descartables,16
+c1733,"CANULA NASAL DE ALTO FLUJO ""S"" (240-S)",un,C,descartables,17
+g6,"CANULA NASAL DE ALTO FLUJO ""XL""",un,C,descartables,6
+c1738,"CANULA NASAL DE ALTO FLUJO ""XS"" (240-XS)",un,C,descartables,2
+c1033,CANULA NASAL P/OXIGENOTERAPIA ADULTOS (230-12),un,C,descartables,12
+c447,CANULA NASAL P/OXIGENOTERAPIA NEONATAL (230-06),un,C,descartables,30
+c1220,CANULA NASAL P/OXIGENOTERAPIA PEDIATRIA (230-09),un,C,descartables,21
+c445,CANULA NASAL PARA ADULTO,un,C,descartables,20
+c446,CANULA NASAL PEDIATRICO,un,C,descartables,52
+c1734,"CANULA TRAQUEOSTOMIA 2,5 (270-12) PEDIATRICA",un,C,descartables,2
+c1735,CANULA TRAQUEOSTOMIA 3 (270-14) PEDIATRICA,un,C,descartables,3
+c1728,"CANULA TRAQUEOSTOMIA 3,5 (270-16) PEDIATRICA",un,C,descartables,8
+g7,CANULA TRAQUEOSTOMIA 4 S/B,un,C,descartables,22
+c1736,CANULA TRAQUEOSTOMIA 4 C/B(270-18) PEDIATRICA,un,C,descartables,23
+c1890,"CANULA TRAQUEOTOMIA 4,5 S/B",un,C,descartables,9
+c1737,CANULA TRAQUEOSTOMIA 5 (270-22) PEDIATRICA C/B,un,C,descartables,13
+g8,CANULA TRAQUEOSTOMIA 5 SIN BALON,un,C,descartables,19
+c1887,"CANULA TRAQUEAOSTOMIA 5,5 SIN BALON",un,C,descartables,12
+g9,"CANULA TRAQUEOSTOMIA 5,5 CON BALON",un,C,descartables,9
+c1885,CANULA TRAQUEOSTOMIA 6 SIN BALON,un,C,descartables,16
+c1769,CANULA TRAQUEOSTOMIA Nº 10 CON BALON,un,C,descartables,5
+c1766,CANULA TRAQUEOSTOMIA Nº 9 CON BALON,un,C,descartables,11
+c1768,CANULA TRAQUEOSTOMIA Nº 9 SIN BALON,un,C,descartables,1
+c448,CANULA TRAQUEOTOMIA Nº 7,un,C,descartables,21
+c449,CANULA TRAQUEOTOMIA Nº 7 1/2,un,C,descartables,41
+c450,CANULA TRAQUEOTOMIA Nº 8,un,C,descartables,3
+c451,CANULA TRAQUEOTOMIA Nº 8 1/2,un,C,descartables,5
+g10,CATETER DOBLE PIG TAIL 6 FR (405-06-26-S)JJ QX,un,C,descartables,22
+g11,CATETER EPICUTANEO ADULTO (581-02-30-S),un,C,descartables,0
+c455,CATETER EPICUTANEO 540/30 (SILMAG),un,C,descartables,30
+c10434,CATETER P/DIALISIS PERITONEAL 712-09-31 S CUFF,un,C,descartables,10
+c10864,CATETER P/DIALISIS PERITONEAL 712-12-37 2 CUFF,un,C,descartables,7
+c1907,CATETER P/DIALISIS PERITONEAL 712-15-42 2 CUFF,un,C,descartables,0
+c636,CATETER PARA HEMODIALISIS 2 L. 12 FR.X 20 CM,un,C,descartables,1
+c453,CATETER UMBILICAL ARTERIAL (544-25),un,C,descartables,41
+c646,"CATETER UMBILICAL VENOSO FR 2,5 (543-25)",un,C,descartables,8
+c1481,"CATETER UMBILICAL VENOSO FR 3,5 (543-35)",un,C,descartables,6
+c1722,CATETER UMBILICAL VENOSO FR 4 (543-40),un,C,descartables,9
+g12,CATETER URETERAL COOK,un,C,descartables,3
+c1767,CATETER VENTRICULAR 130-09-C,un,C,descartables,2
+c462,CEPILLO DE MANO,un,C,descartables,221
+c1011,CEPILLO P/COLECT. CERVICAL,un,C,descartables,210
+c463,CINTA PINTOR/ ESTERILIZACION,un,C,descartables,26
+c464,CINTA TEST AMPROLENE / PARA OXIDO DE ETILENO,un,C,descartables,7
+c465,CINTA TEST PARA AUTOCLAVE (VAPOR),un,C,descartables,3
+c1822,CINTA TEST PARA ESTUFA (CALOR SECO),un,C,descartables,0
+g13,CIRCUITO RESPIRATORIO NEONATAL 1 TRAMPA DE AGUA,un,C,descartables,11
+g14,CIRCUITO RESPIRATORIO NEONATAL S/ TRAMPA DE AGUA,un,C,descartables,12
+g15,CIRCUITO RESPIRATORIO PEDIATRICO,un,C,descartables,3
+g16,CIRCUITO RESPIRATORIO ADULTO,un,C,descartables,20
+g17,CLOREXIDINA SANITIZANTE DE PIEL C/ALCOHOL,un,C,descartables,5
+g18,CLOREXIDINA SANITIZANTE DE PIEL C/AGUA,un,C,descartables,3
+c1247,CLORHEXIDINA SOLUCION 3M 225 ML,un,C,descartables,0
+c467,CLORHEXIDINA X 1/2 LT (JABONOSA) rosa,un,C,descartables,20
+g19,CLOREXIDINA X 1/2 LT AZUL,un,C,descartables,68
+c468,COFIAS,un,C,descartables,1496
+g20,CONECTORES PEDIATRICOS,un,C,descartables,7
+g21,CONECTORES ADULTO,un,C,descartables,1
+g22,CONECTORES ADULTOS CORRUGADOS,un,C,descartables,30
+g23,CONECTORES EN T,un,C,descartables,26
+g24,CONECTORES RECTOS REDUCTOR,un,C,descartables,26
+g25,CONECTORES EN Y,un,C,descartables,36
+c1329,DISPOSITIVO INTRAUTERINO,un,D,descartables,8
+c1436,DRENAJE DE CANAL ABIERTO 125/19,un,D,descartables,12
+c275,ELECTRODOS ADULTOS,un,E,descartables,3087
+g26,EQUIPO 109 SIN RESERVORIO,un,E,descartables,26
+c760,EQUIPO 109,un,E,descartables,71
+c1390,EQUIPO B107,un,E,descartables,16
+c1090,EQUIPO BOMBA ALIMEN. ENTERAL,un,E,descartables,0
+c1092,EQUIPO BOMBA ALIMEN. PARENTERTAL,un,E,descartables,67
+c1045,EQUIPO BOMBA DEAM,un,E,descartables,439
+c470,EQUIPO DRENAJE TORAX 2500CC (FRASCO BITUBULADO),un,E,descartables,7
+c471,EQUIPO DRENAJE TORAX 500 CC (FRASCO BITUBULADO),un,E,descartables,0
+c1758,EQUIPO DRENAJE TORAX 750 CC (FRASCO BITUBULADO),un,E,descartables,21
+c469,EQUIPO ESTERIL PARA CIRUGIA,un,E,descartables,7
+c1034,EQUIPO V 13,un,E,descartables,4660
+c1035,EQUIPO V 14 p/ ATB,un,E,descartables,446
+c128,EQUIPO V 17 MICROGOTERO,un,E,descartables,469
+c131,EQUIPO V 20 PARA SANGRE,un,E,descartables,35
+c475,ESPATULA DE AIRE,un,E,descartables,500
+c476,ESPECULO CHICO MEDISUL,un,E,descartables,160
+c478,ESPECULO GRANDE MEDISUL,un,E,descartables,177
+c477,ESPECULO MEDIANO MEDISUL,un,E,descartables,454
+c1388,FILTRO ANTIBACTERIAL,un,F,descartables,0
+c473,FILTRO HUMIFICADOR,un,F,descartables,126
+g27,FILTRO FISHER,un,F,descartables,0
+c479,FORMOL,un,F,descartables,2
+c120,GASAS,un,G,descartables,0
+c480,GEL X 5 KG Y 3kg BACE PARA ULTRASONIDO,un,G,descartables,5
+c1361,GILLETE,un,G,descartables,0
+g28,GLUCOMETRO,un,G,descartables,18
+c485,GLUTARALDEHIDO X 1 LT y de 5LT,un,G,descartables,55
+c481,GUANTES DE LATEX NO ESTERILES,un,G,descartables,19390
+c1726,GUANTES DE NITRILO,un,G,descartables,1200
+c482,GUANTES ESTERILES Nº 6 1/2,un,G,descartables,82
+c483,GUANTES ESTERILES Nº 7,un,G,descartables,0
+c124,GUANTES ESTERILES Nº 7 1/2,un,G,descartables,620
+c125,GUANTES ESTERILES Nº 8,un,G,descartables,0
+c484,GUANTES ESTERILES Nº 8 1/2,un,G,descartables,874
+c414,HEMOSUCTOR,un,H,descartables,11
+c415,HISOPOS LARGOS,un,H,descartables,34900
+c1328,IOBAN TM-2,un,I,descartables,20
+c761,JERINGA DE 50 CC BRAUM,un,J,descartables,133
+c486,JERINGA DE 60 CC,un,J,descartables,493
+c10555,JERINGA DE 60 CC PICO TOMEY DE ALIMENTA,un,J,descartables,310
+c106,JERINGAS 1 CC C/AGUJAS,un,J,descartables,2111
+c110,JERINGAS 5 CC,un,J,descartables,14695
+c630,JERINGAS 10 CC,un,J,descartables,8663
+c113,JERINGAS 20 CC,un,J,descartables,1165
+c1115,LLAVE DE 3 VIAS,un,L,descartables,65
+c427,LUGOL,un,L,descartables,4
+c413,MALLA TUBULAR 15 CM,un,M,descartables,13
+c747,MALLA TUBULAR 25 CC,un,M,descartables,10
+c1763,MALLA TUBULAR 6 CM,un,M,descartables,15
+c647,MALLA TUBULAR 7 CM,un,M,descartables,0
+c1764,MALLA TUBULAR 8 CM,un,M,descartables,8
+c496,MANGO DE ELCTROBISTURI,un,M,descartables,51
+c497,MANOPLA DESCARTABLES X UNIDAD ( NAYLON),un,M,descartables,2098
+c498,MAQUINA DE RASURAR,un,M,descartables,459
+g29,MASCARA CHANCHITA TAMAÑO S,un,M,descartables,9
+g30,MASCARA CHANCHITA TAMAÑO M,un,M,descartables,5
+g31,MASCARA CHANCHITA TAMAÑO L,un,M,descartables,11
+g32,MEMBRANA PARA NEBULIZADOR,un,M,descartables,0
+c10272,NITROFURASONA X 1 LITRO**-,un,N,descartables,2
+c10499,OVATA 10 CM,un,O,descartables,155
+c10535,OVATA 15 CM,un,O,descartables,79
+c1157,OXIDO DE ETILENO (AMPOLLAS X 1),un,O,descartables,104
+c499,OXIDO DE ETILENO (TUBOS DE 100 GR),un,O,descartables,136
+g33,PAPEL DE ELECTRO 80MM X 20 MTS (NUEVO),un,P,descartables,30
+c506,PAPEL DE ELECTRO 50 X 30,un,P,descartables,218
+g34,PARCHE DE ARGINATO,un,P,descartables,21
+c10340,PARCHE Duo DEN 15X20,un,P,descartables,9
+c409,PARCHE HIDROCOLOIDE 10X10,un,P,descartables,16
+c10320,PARCHE HIDROCOLOIDE 15X15,un,P,descartables,2
+c402,PARCHE HIDROCOLOIDE 20X20,un,P,descartables,92
+c10364,PASTA KARAYA,un,P,descartables,7
+c507,PINZA UMBILICAL,un,P,descartables,229
+c508,PORTA OBJETO CAJA X 50,un,P,descartables,1000
+c1116,PROLONGADORES PT 26,un,P,descartables,0
+c1721,PROTECTOR OCULAR BILLIBAND,un,P,descartables,0
+c1775,SACHET DE FLUIDOS BIOLOGICOS,un,S,descartables,39
+c1437,RESERVORIO TIPO JACKSON PRATT 127-100,un,R,descartables,12
+c509,SET ARROW 1 LUMEN ADULTOS (S/J-50014),un,S,descartables,13
+c457,SET ARROW 1 LUMEN PEDIATRICO (4150 4FR),un,S,descartables,15
+c1081,SET ARROW 2 LUMEN NEO (CS-14502),un,S,descartables,2
+c510,SET ARROW 2LUMEN AD,un,S,descartables,10
+g35,SET CERRADO DE ASPIRACION Nº 5 french,un,S,descartables,20
+g36,SET CERRADO DE ASPIRACION Nº 6 french,un,S,descartables,5
+g37,SET CERRADO DE ASPIRACION Nº 8 french,un,S,descartables,15
+c1804,SET CERRADO DE ASPIRACION Nº10,un,S,descartables,16
+c746,SET CERRADO DE ASPIRACION Nº14,un,S,descartables,58
+c1221,SET CERRADO DE ASPIRACION Nº16,un,S,descartables,37
+c1223,SET CERRADO DE ASPIRACION Nº18 (TRAQUEO),un,S,descartables,1
+g38,SET CERRADO DE RECILECCION DE ORINA 4 FR,un,S,descartables,18
+g39,SET CERRADO DE RECILECCION DE ORINA 6 FR,un,S,descartables,8
+g40,SET CERRADO DE RECILECCION DE ORINA 8 FR,un,S,descartables,14
+g41,SET DE DRENAJE VENTRICULAR EXTERNO (130-09),un,S,descartables,2
+g42,SET PARTO SIN DOLOR,un,S,descartables,9
+c1826,SOLUCION LT8,un,S,descartables,18
+c1608,SONDA DE NUTRICION F108,un,S,descartables,82
+c1761,SONDA FOLEY HEMATURICA 3 VIAS N° 20,un,S,descartables,15
+c10169,SONDA FOLEY HEMATURICA 3 VIAS N° 22,un,S,descartables,6
+c1762,SONDA FOLEY HEMATURICA 3 VIAS N° 24,un,S,descartables,46
+c10162,SONDA FOLEY Nº 10,un,S,descartables,12
+c512,SONDA FOLEY Nº 10 450-10 SILMAG ( SILICONA ),un,S,descartables,10
+c513,SONDA FOLEY Nº 12,un,S,descartables,9
+c1178,SONDA FOLEY Nº 14,un,S,descartables,6
+c514,SONDA FOLEY Nº 16,un,S,descartables,111
+c515,SONDA FOLEY Nº 18,un,S,descartables,45
+c1715,SONDA FOLEY Nº 18 3 VIAS,un,S,descartables,30
+c518,SONDA FOLEY Nº 20,un,S,descartables,39
+c1456,SONDA FOLEY Nº 20 3 VIAS,un,S,descartables,34
+c520,SONDA FOLEY Nº 22,un,S,descartables,37
+c519,SONDA FOLEY Nº 22 3 VIAS,un,S,descartables,25
+c1765,SONDA FOLEY Nº 22 3 VIAS - SILICONADA -,un,S,descartables,0
+c521,SONDA FOLEY Nº 24,un,S,descartables,15
+c1706,SONDA FOLEY Nº 24 3 VIAS,un,S,descartables,45
+c1748,SONDA FOLEY Nº 8 2 VIAS,un,S,descartables,32
+c10298,SONDA K10,un,S,descartables,9
+c1244,SONDA K30,un,S,descartables,220
+c1243,SONDA K32,un,S,descartables,149
+c1207,SONDA K33,un,S,descartables,0
+c1341,SONDA K33(SILICONADA) (no),un,S,descartables,0
+c524,SONDA K35,un,S,descartables,243
+c525,SONDA K66,un,S,descartables,87
+c522,SONDA K9,un,S,descartables,223
+g43,SONDA MALECOT N20,un,S,descartables,1
+g44,SONDA MALECOT N22,un,S,descartables,1
+c538,SONDA NASOGASTRICA 04 FR (392-04),un,S,descartables,46
+c1152,SONDA NASOGASTRICA 06 FR (392-06),un,S,descartables,20
+c539,SONDA NASOGASTRICA 07 FR (392-07),un,S,descartables,18
+c540,SONDA NASOGASTRICA 09 FR (392-09),un,S,descartables,81
+c1805,SONDA NASOGASTRICA 10 FR (391-10),un,S,descartables,10
+c536,SONDA NASOGASTRICA 12 FR (391-12),un,S,descartables,27
+c537,SONDA NASOGASTRICA 14 FR (391-14),un,S,descartables,15
+c1806,SONDA NASOGASTRICA 16 FR (391-16),un,S,descartables,10
+c1807,SONDA NASOGASTRICA 18 FR (391-18),un,S,descartables,10
+c526,SONDA NELATON Nº 10 (420-10)SILMAG,un,S,descartables,20
+c528,SONDA NELATON Nº 16 (420-16)SILMAG,un,S,descartables,45
+g45,SONDA NELATON Nº 16 ROJA,un,S,descartables,34
+c1037,SONDA P/ DRENAJE TORACICO 40 FR (150-40-01),un,S,descartables,47
+c579,SONDA P/ DRENAJE TORACICO K225,un,S,descartables,0
+c1036,SONDA PARA DRENAJE 28 FR (150-28) DR. ABDALA,un,S,descartables,23
+c529,SONDA RUSCH Nº 10,un,S,descartables,0
+c530,SONDA RUSCH Nº 12,un,S,descartables,0
+c534,SONDA RUSCH Nº 16,un,S,descartables,0
+c748,SONDA RUSCH Nº 18,un,S,descartables,0
+c532,SONDA RUSCH Nº 22,un,S,descartables,0
+c749,SONDA RUSCH Nº 8,un,S,descartables,0
+c750,SONDA RUSCH Nº24,un,S,descartables,0
+c690,SONDA TRASPILORICA C/LASTRE Y MANDRIL - SILMAG,un,S,descartables,2
+c1228,STERI DRAPE 1015,un,S,descartables,12
+c10267,STERI DRAPE 1050,un,S,descartables,70
+c1803,STERI DRAPE IODADO 6650 SD 60X45 CM,un,S,descartables,20
+c1182,STERI STRIP,un,S,descartables,223
+c412,TERGADERM,un,T,descartables,375
+c544,TELA ADHESIVA TUBO 2.5,un,T,descartables,191
+c545,TELA ADHESIVA TUBO 5,un,T,descartables,58
+c541,TELA DURAPORE (SEDA),un,T,descartables,3
+c542,TELA HIPOALERGENICA 2.5,un,T,descartables,72
+c543,TELA HIPOHALERGENICA 5 CM,un,T,descartables,298
+c410,TENSIOMETROS,un,T,descartables,10
+c411,TENSIOMETROS PEDIATRICOS,un,T,descartables,6
+c546,TERMOMETROS DIGITAL,un,T,descartables,46
+c547,TIRAS PARA HEMOGLUCOTES,un,T,descartables,1350
+c1705,TROCAR TORACICO N°16,un,T,descartables,16
+c1760,TROCAR TORACICO N°18,un,T,descartables,18
+c1707,TROCAR TORACICO N°28,un,T,descartables,10
+c1146,TROCAR TORACICO Nº10,un,T,descartables,22
+c1144,TROCAR TORACICO Nº12,un,T,descartables,24
+c1145,TROCAR TORACICO Nº14,un,T,descartables,6
+c1147,TROCAR TORACICO Nº8,un,T,descartables,17
+g46,TROCAR TORACICO Nº22,un,T,descartables,11
+g47,TROCAR TORACICO N° 20,un,T,descartables,1
+c10350,TUBO CORRUGADO,un,T,descartables,21
+c611,TUBO EN T PARA OXIGENO,un,T,descartables,38
+g48,TUBO DE DRENAJE BRONQUIAL SELECTIVO DER.,un,T,descartables,0
+c1916,TUBO DE DRENAJE BRONQUIAL SELECTIVO IZQ. 35,un,T,descartables,5
+c1964,TUBO DE DRENAJE BRONQUIAL SELECTIVO IZQ. 37,un,T,descartables,2
+c1917,TUBO DE DRENAJE BRONQUIAL SELECTIVO IZQ. 39,un,T,descartables,2
+c1295,TUBO DE DRENAJE (SILMAG) 110-12,un,T,descartables,24
+c1296,TUBO DE DRENAJE (SILMAG) 110-16,un,T,descartables,11
+c10156,TUBO DE DRENAJE (SILMAG) 110-20,un,T,descartables,16
+c574,TUBO DE DRENAJE (SILMAG) 110-24,un,T,descartables,53
+c1038,TUBO DE DRENAJE (SILMAG) 110-28,un,T,descartables,50
+c576,TUBO DE DRENAJE (SILMAG) 110-32,un,T,descartables,74
+c577,TUBO DE DRENAJE MULTILUMEN (SILMAG) 140-07,un,T,descartables,11
+g49,TUBO ENDOTRAQUEAL Nº 2 1/2 CON/B,un,T,descartables,17
+c553,TUBO ENDOTRAQUEAL Nº 2 1/2 S/B,un,T,descartables,14
+g50,TUBO ENDOTRAQUEAL Nº 2 C/B,un,T,descartables,9
+c552,TUBO ENDOTRAQUEAL Nº 2 S/B,un,T,descartables,12
+c1808,TUBO ENDOTRAQUEAL Nº 3 1/2 C/B,un,T,descartables,21
+c557,TUBO ENDOTRAQUEAL Nº 3 1/2 S/B,un,T,descartables,41
+c1215,TUBO ENDOTRAQUEAL Nº 3 C/B,un,T,descartables,46
+c556,TUBO ENDOTRAQUEAL Nº 3 S/B,un,T,descartables,21
+c754,TUBO ENDOTRAQUEAL Nº 4 1/2 C/B,un,T,descartables,14
+c559,TUBO ENDOTRAQUEAL Nº 4 1/2 S/B,un,T,descartables,18
+c563,TUBO ENDOTRAQUEAL Nº 4 C/B,un,T,descartables,35
+c558,TUBO ENDOTRAQUEAL Nº 4 S/B,un,T,descartables,78
+c755,TUBO ENDOTRAQUEAL Nº 5 1/2 C/B,un,T,descartables,9
+c560,TUBO ENDOTRAQUEAL Nº 5 1/2 S/B,un,T,descartables,42
+c565,TUBO ENDOTRAQUEAL Nº 5 C/B,un,T,descartables,3
+c640,TUBO ENDOTRAQUEAL Nº 5 S/B,un,T,descartables,28
+c568,TUBO ENDOTRAQUEAL Nº 6 1/2 C/B,un,T,descartables,32
+c762,TUBO ENDOTRAQUEAL Nº 6 1/2 S/B,un,T,descartables,16
+c756,TUBO ENDOTRAQUEAL Nº 6 C/B,un,T,descartables,11
+c561,TUBO ENDOTRAQUEAL Nº 6 S/B,un,T,descartables,60
+c570,TUBO ENDOTRAQUEAL Nº 7 1/2 C/B,un,T,descartables,49
+c569,TUBO ENDOTRAQUEAL Nº 7 C/B,un,T,descartables,0
+c572,TUBO ENDOTRAQUEAL Nº 8 1/2 C/B,un,T,descartables,57
+c571,TUBO ENDOTRAQUEAL Nº 8 C/B,un,T,descartables,33
+c1539,TUBO ENDOTRAQUEAL Nº 8 S/B,un,T,descartables,37
+c1747,TUBO ENDOTRAQUEAL Nº 9 C/B,un,T,descartables,12
+c548,TUBO FLEXIBLE SILMAG (601-445),un,T,descartables,11
+g51,TUBO KEHR N 18,un,T,descartables,9
+g52,TUBO KEHR N 20,un,T,descartables,10
+g53,TUBO DE MAYO 000,un,T,descartables,1
+g54,TUBO DE MAYO 00,un,T,descartables,1
+g55,TUBO DE MAYO 1,un,T,descartables,1
+g56,TUBO DE MAYO 2,un,T,descartables,1
+c1006,VASELINA LIQUIDA,un,V,descartables,16
+c586,VASELINA SOLIDA,un,V,descartables,5
+c588,VENDA DE SMARCH 10CM,un,V,descartables,13
+c589,VENDA DE SMARCH 15 CM,un,V,descartables,8
+c590,VENDA DE SMARCH 20 CM,un,V,descartables,1
+c10498,VENDAS DE YESO 10 CM**-,un,V,descartables,0
+c10534,VENDAS DE YESO 15 CM**,un,V,descartables,95
+c591,YODO POVIDONA JABON X 5 LTS,un,Y,descartables,1
+c643,YODO POVIDONA SOLUCION PHOENIX 1LITRO,un,Y,descartables,40
+c21,YODO POVIDONA SOLUCION X 5 LT,un,Y,descartables,2
+g57,SET DR OLMEDO,un,S,descartables,0
+g58,DILATADORES URETRALES,un,D,descartables,1
+g59,PAPEL POUCH DE 05 MM,un,P,descartables,9
+c1994,PAPEL POUCH DE 15 MM,un,P,descartables,10
+c1995,PAPEL POUCH DE 25 MM,un,P,descartables,13
+c1996,PAPEL POUCH DE 30 MM,un,P,descartables,8
+g60,PAPEL POUCH DE 40 MM,un,P,descartables,15
+g61,AMBU NEONATAL,un,A,descartables,9
+g62,AMBU PEDIATRICO,un,A,descartables,4
+g63,AMBU ADULTO,un,A,descartables,6
+g64,MASCARA PARA VNI PEQUEÑAS,un,M,descartables,10
+g65,NEBULIZADORES DE GOTA PEDIATRICO,un,N,descartables,2
+g66,NEBULIZADORES DE GOTA ADULTO,un,N,descartables,50
+g67,AEROCAMARAS NEONATAL,un,A,descartables,2
+g68,AEROCAMARAS PEDIATRICA,un,A,descartables,9
+g69,AEROCAMARAS ADULTO,un,A,descartables,2
+g70,ESTETOSCOPIO PEDIATRICO,un,E,descartables,17
+g71,CANULA NASAL ALTO FLUJO PEDIATRICA,un,C,descartables,1
+g72,ESPIROMETRO,un,E,descartables,2
+g73,MASCARA PARA AMBU N°0,un,M,descartables,9
+g74,MASCARA PARA AMBU N°2,un,M,descartables,6
+g75,MASCARA PARA AMBU N°4,un,M,descartables,6
+g76,MASCARA PARA AMBU N°5,un,M,descartables,9
+g77,MASCARA PARA AMBU N°6,un,M,descartables,2
+g78,MANGO TENSIOMETRO 38CM-50CM,un,M,descartables,1
+g79,MANGO TENSIOMETRO 35CM-45CM,un,M,descartables,1
+g80,MANGO TENSIOMETRO 13CM-21CM,un,M,descartables,7
+g81,MANGO TENSIOMETRO 7CM-13CM,un,M,descartables,5
+g82,MANGO TENSIOMETRO 8CM-4CM,un,M,descartables,7
+g83,"MANGO TENSIOMETRO 5CM-3,5CM",un,M,descartables,9
+g84,DESPRESURIZADOR,un,D,descartables,1
+g85,NEBULIZADORES PORTATILES,un,N,descartables,2
+g86,FERULAS,un,F,descartables,2
+g87,MANOMETROS DE AIRE,un,M,descartables,2
+g88,MANOMETROS DE OXIGENO,un,M,descartables,1
+g89,FLUMITER DE OXIGENO,un,F,descartables,3
+g90,FRASCO DE ASPIRACION,un,F,descartables,15
+c278,AAS 100 MG ASPIRINETA COMP,comp,A,medicamentos,184
+c990,ACEMUK COM EFERVESCENTE (ACETILCISTEINA),un,A,medicamentos,168
+c665,"ACICLOVIR AMP 500 MG F, A,",amp,A,medicamentos,0
+c1972,ACICLOVIR COMP 400 MG,comp,A,medicamentos,0
+c1865,ACICLOVIR COMP 800 MG,comp,A,medicamentos,70
+c1213,ACIDO TRANEXAMICO 1000 MG X 10 ML,un,A,medicamentos,42
+c283,ADENOCINA AMP,amp,A,medicamentos,35
+c284,ADRENALINA AMP,amp,A,medicamentos,113
+c10567,AET AL 2% AMP (POLIDOCANOL),amp,A,medicamentos,0
+c1150,ALBICAR SOL BEBIBLE (L-CARNITINA),un,A,medicamentos,0
+c1187,ALBUMINA HUMANA 20% UNC,un,A,medicamentos,12
+c987,ALDOMET 500 MG COMP (METILDOPA),comp,A,medicamentos,60
+c2021,ALIMENTACION DIBEN X 200 ML KABI,un,A,medicamentos,26
+c648,ALIMENTACION DIBEN X 500 ML EB,un,A,medicamentos,20
+c639,ALIMENTACION FREBINI ENERGY DRINK,un,A,medicamentos,0
+c638,ALIMENTACION FREBRINI ORIGINAL SACHET,un,A,medicamentos,5
+c1379,ALIMENTACION FRESUBIN 2 KCAL DRINK (vainilla),un,A,medicamentos,24
+c653,ALIMENTACION FRESUBIN ENERGY,un,A,medicamentos,3
+c1122,ALIMENTACION FRESUBIN HP ENERGY,un,A,medicamentos,16
+c637,ALIMENTACION FRESUBIN ORIGINAL,un,A,medicamentos,0
+c1971,ALIMENTACION FRESUBIN ORIGINAL (1 LT),un,A,medicamentos,14
+c1953,ALIMENTACION FRESUBIN ORIGINAL FIBRA (1 LT),un,A,medicamentos,13
+g1,ALIMENTACION INTENSIVE 500 ML,un,A,medicamentos,10
+c1970,ALIMENTACION JEVITY PLUS,un,A,medicamentos,2
+c422,ALIMENTACION PARENTERAL DE 2300 CALORIAS,un,A,medicamentos,0
+c419,ALIMENTACION SMOFKAVIBEN CENTRAL X 1970,un,A,medicamentos,8
+c1815,ALIMENTACION SMOFKAVIBEN EXTRANITROGEN 2025 ML.,un,A,medicamentos,0
+c1399,ALIMENTACION SUPPORTAN,un,A,medicamentos,82
+c1861,ALIMENTACION SUPPORTAN DRINK,un,A,medicamentos,0
+c1973,ALOPURINOL 300 MG X 10 COMP,comp,A,medicamentos,30
+c147,AMBISOME 50 MG FA,un,A,medicamentos,0
+c916,AMIKACINA DE 100 MG INY,un,A,medicamentos,49
+cA917,AMIKACINA DE 500 MG INY,un,A,medicamentos,143
+c293,AMINOFILINA AMP (240 MG X 10 ML),amp,A,medicamentos,74
+c294,AMIODARONA AMP (150 MG X 3 ML) (ATLANSIL),amp,A,medicamentos,0
+c989,AMOXI+CLAVULANICO COMP 1 GR,comp,A,medicamentos,101
+c296,"AMPICILINA + SULBACTAM F.A. INY 1,5 MG (AMPIGEN)",un,A,medicamentos,510
+c295,AMPICILINA 1 GR F. A. INY (COMUN),un,A,medicamentos,517
+c298,ANFOTERICINA 50 MG EN LIPOSOMAS F. A. INY,un,A,medicamentos,5
+c1746,ANFOTERICINA B 50 MG,un,A,medicamentos,0
+c1010,ARGOCIAN (25 MCG AMP),amp,A,medicamentos,25
+c1703,ATRACURIO,un,A,medicamentos,175
+c299,ATROPINA 1 ML AMP,amp,A,medicamentos,328
+c1149,AZITROMICINA 500 MG COMP,comp,A,medicamentos,111
+c305,BACLOFENO COMP (10 MG),comp,B,medicamentos,60
+c918,BACTRIM AMP,amp,B,medicamentos,201
+c1227,BACTRIM COMP,comp,B,medicamentos,0
+c732,BASOFORTINA COMP (ERGONOVINA),comp,B,medicamentos,0
+c988,BECOZYM AMP,amp,B,medicamentos,46
+c1120,BETAMETASONA GOTAS,un,B,medicamentos,42
+c919,BETAMETASONA RETARD,un,B,medicamentos,85
+c310,BICARBONATO DE SODIO SACHET (1 MOLAR X 100 ML),un,B,medicamentos,33
+c313,BROMURO DE IPRATROPIO AEROSOL,un,B,medicamentos,27
+c311,BROMURO DE IPRATROPIO GTAS (SOL NEB 20 ML),frasco,B,medicamentos,1
+c1974,BROMURO DE IPRATROPIO/SALBUTAMOL,un,B,medicamentos,0
+c314,BROMURO DE PANCURONIO (4 MG AMP X 2 ML),amp,B,medicamentos,188
+c708,BROMURO DE VECURONIO (10 MG AMP),amp,B,medicamentos,45
+c778,BUDESONIDE PUFF,un,B,medicamentos,9
+c316,BUDESONIDE SOLUCION PARA NEBULIZAR,un,B,medicamentos,15
+c318,"BUPIVACAINA (0,5% X 20 ML)",un,B,medicamentos,7
+c426,"BUPIVACAINA HIPERVARICA (0,5% X 4 ML)",un,B,medicamentos,157
+c920,CAFEINA (25% AMP A 1 ML),amp,C,medicamentos,133
+c1084,CARBETOCIN (AMP X 1 ML),un,C,medicamentos,13
+c1975,CARBON ACTIVADO,un,C,medicamentos,1
+c1753,CARBOPLATINO 150 MG(MED.ONCOLOGICA),un,C,medicamentos,0
+c921,CEFALOTINA 1 GR,un,C,medicamentos,903
+c1977,CEFAZOLINA 1 GR,un,C,medicamentos,99
+c1976,CEFOTAXIMA,un,C,medicamentos,0
+c922,CEFTAZIDIMA (1G AMP),amp,C,medicamentos,69
+c782,CEFTRIAXONA 1 GR,un,C,medicamentos,756
+c134,CICLOFOSFAMIDA 1000 MG FA(MED.ONCOLOGICA),un,C,medicamentos,0
+c923,CIPROFLOXACINA 500 MG COMP,comp,C,medicamentos,25
+c924,CIPROFLOXACINA SACHET,un,C,medicamentos,250
+c1394,CISPLATINO 50MG (MED.ONCOLOGICA),un,C,medicamentos,0
+c1154,CITARABINA 1000 MG (MED.ONCOLOGICA),un,C,medicamentos,0
+c1688,CITARABINA 100MG FA(MED.ONCOLOGICA),un,C,medicamentos,0
+c873,CLARITROMICINA 500 MG COMP,comp,C,medicamentos,176
+c1008,CLARITROMICINA EV (500 MG AMP),amp,C,medicamentos,5
+c783,CLINDAMICINA 600 MG,un,C,medicamentos,5
+c1366,CLONAZEPAM 2 MG COMP,comp,C,medicamentos,0
+c784,CLONAZEPAN GOTAS,un,C,medicamentos,5
+c1978,CLORPROMAZINA AMPOLLAS,amp,C,medicamentos,8
+c785,CLORURO DE POTASIO,un,C,medicamentos,1132
+c10242,COLISTINA AMP,amp,C,medicamentos,143
+c1041,CREMA DE BISMUTO,pomo,C,medicamentos,16
+c1681,DAUNORUBICINA 20 MG FCO AMP (MED.ONCOLOGICA),amp,D,medicamentos,0
+c1601,DESMOPRESINA AMP,amp,D,medicamentos,20
+c926,DEXAMETASONA,un,D,medicamentos,1349
+c1216,DEXMEDETOMDINE FA X 2 ML (PRECEDEX),un,D,medicamentos,100
+c10468,DIAZEPAM AMP,amp,D,medicamentos,126
+c779,DICLOFENAC + PRIDINILOL COMP,comp,D,medicamentos,0
+c927,DICLOFENAC 75 MG AMP,amp,D,medicamentos,534
+c891,DICLOFENAC COMP,comp,D,medicamentos,370
+c928,DIFENHIDRAMINA (10 MG AMP X 10 ML) (BENADRYL),amp,D,medicamentos,263
+c695,DIGOXINA (INY X 1 ML),un,D,medicamentos,191
+c786,DIPIRONA,un,D,medicamentos,751
+c929,DOBUTAMINA 250 MG,un,D,medicamentos,100
+c641,DOMPERIDONA GOTAS (EUCITON),un,D,medicamentos,12
+c850,DOPAMINA 100 MG AMPOLLA,amp,D,medicamentos,207
+c788,DOPAMINA 200 MG,un,D,medicamentos,158
+c1685,DOXORUBICINA 50 MG FCO AMP (MED.ONCOLOGICA),amp,D,medicamentos,0
+c2031,ENALAPRIL 10 G VO,un,E,medicamentos,30
+c332,ENALAPRILATO AMP,amp,E,medicamentos,14
+c930,ENOXAPARINA 40 MG,un,E,medicamentos,13
+c931,ERGONOVINA AMP,amp,E,medicamentos,222
+c1979,ERITROMICINA UNGÜENTO,un,E,medicamentos,199
+c985,ERITROPROYETINA 2000 UI,un,E,medicamentos,2
+c1912,ERITROPROYETINA 4000 UI,un,E,medicamentos,2
+c10545,ESPIRONOLACTONA COMP,comp,E,medicamentos,1
+c719,ESTREPTOQUINASA 1500000 UI,un,E,medicamentos,2
+c333,ETILEFRINA,un,E,medicamentos,185
+c1980,ETOPOSIDO 100 MG (MED.ONCOLOGICA),un,E,medicamentos,0
+c932,FENITOINA AMP,amp,F,medicamentos,173
+c975,FENOBARBITAL,un,F,medicamentos,0
+c1083,FENOBARBITAL COMP,comp,F,medicamentos,50
+c789,FENTANILO,un,F,medicamentos,7239
+c1683,FILGRASTIM 30 MG FCO AMP,amp,F,medicamentos,9
+c934,FLUCONAZOL COMP,comp,F,medicamentos,20
+c976,FLUCONAZOL SACHET,un,F,medicamentos,52
+c1981,FLUDARABINA (MED.ONCOLOGICA),un,F,medicamentos,0
+c10639,FLUMAZENIL AMP,amp,F,medicamentos,12
+c10483,FLUTICASONA SPRAY,un,F,medicamentos,0
+c10476,FORTIFICADOR DE LECHE MATERNA (NUTRIPREM) SOBRES,un,F,medicamentos,0
+c654,FOTORRETIN GOTAS,un,F,medicamentos,6
+c790,FUROSEMIDA,un,F,medicamentos,661
+c1153,FUROSEMIDA COMP,comp,F,medicamentos,35
+c334,GAMMAGLOBULINA GAMMATET T500 (VACUNA ANTIT),un,G,medicamentos,0
+c10701,GANCICLOVIR 500 MG AMP,amp,G,medicamentos,7
+c1772,"GENTAMICINA 0,1% CREMA X 20 GR",pomo,G,medicamentos,0
+c935,GENTAMICINA 400,un,G,medicamentos,72
+c1925,GOTAS CICLOPENTOLATO,un,G,medicamentos,10
+c1926,GOTAS FLUORESCEINA,un,G,medicamentos,11
+c1927,GOTAS POENCAINA,un,G,medicamentos,1
+c936,HALOPERIDOL (5 MG AMP X 1 ML),amp,H,medicamentos,75
+c937,HEPARINA 5000,un,H,medicamentos,94
+c1982,HIDRATO DE CLORAL,un,H,medicamentos,1
+c938,HIDROCORTISONA 500 MG AMP,amp,H,medicamentos,117
+c688,HIERRO ENDOVENOSO,un,H,medicamentos,244
+c941,HIOSCINA COMPUESTA,comp,H,medicamentos,224
+c939,HIOSCINA SIMPLE,un,H,medicamentos,735
+c1170,I.M 75 (SUPOSITORIOS),un,I,medicamentos,140
+c337,IBUPROFENO AMP (400 MG X 3 ML),amp,I,medicamentos,243
+c1742,IDARRUBICINA 10 MG FCO AMP (MED.ONCOLOGICA),amp,I,medicamentos,0
+c1984,IFOSFAMIDA 1 GR. (MED.ONCOLOGICA),un,I,medicamentos,0
+c336,IMIPENEM,un,I,medicamentos,72
+c1983,"INMUNOGLOBULINA 0,5",un,I,medicamentos,0
+c1744,INMUNOGLOBULINA 5G X 100ML BIOFACTOR,un,I,medicamentos,21
+c1719,INMUNOGLOBULINA G EV 10GR 200ML,un,I,medicamentos,0
+c1730,INSULINA ASPARTICA 100 U/ML - NOVORAPID,un,I,medicamentos,0
+c942,INSULINA HUMANA CORRIENTE (100 UI X 10 ML),un,I,medicamentos,8
+c943,INSULINA NPH,un,I,medicamentos,7
+c10629,IRUXOL UNGUENTO (30 GRAMOS),pomo,I,medicamentos,15
+c1179,ISOXSUPRINA AMP (10 MG X 2 ML),amp,I,medicamentos,150
+c944,ISOXUPRINA COMP (20 MG),comp,I,medicamentos,100
+c1469,ITOPRIDE 50 MG COMP,comp,I,medicamentos,0
+c893,KETOROLAC (30 MG INY AMP 1 ML),amp,K,medicamentos,1966
+cA894,LABETALOL AMP (5MG X 4ML),amp,L,medicamentos,130
+c895,LABETALOL COMP (200 MG),comp,L,medicamentos,130
+c991,LACTULON (JARABE X 120 ML),frasco,L,medicamentos,15
+c1754,LEUCOVORINA 50 MG (MED.ONCOLOGICA),un,L,medicamentos,10
+c1486,LEVETIRACETAM 1 GR COMP,comp,L,medicamentos,70
+c1998,LEVETIRACETAM 500 MG COMP.,comp,L,medicamentos,10
+c10507,LEVETIRACETAN 100 MG FA,un,L,medicamentos,17
+c896,LEVOFLOXACINA COMP (750 MG),comp,L,medicamentos,21
+c947,LEVOFLOXACINA FCO (500 MG X 100 ML SACHET),un,L,medicamentos,0
+c1879,LEVOMEPROMAZINA (25 MG),un,L,medicamentos,0
+c978,"LEVOSIMENDAN (2,5 MG/ML INY FA X 5 ML)",un,L,medicamentos,5
+c1429,LIDOCAINA 10% SPRAY,un,L,medicamentos,9
+c341,LIDOCAINA 2% C/EPI FCO AMP (20 ML),amp,L,medicamentos,43
+c948,LIDOCAINA AL 2 % S/EPI AMP (5 ml)COMUN,amp,L,medicamentos,260
+c791,LIDOCAINA JALEA (POMO X 25 ML),un,L,medicamentos,0
+c1121,LOPERAMIDA (COMP X 10),un,L,medicamentos,25
+c843,LORAZEPAM EV (4 MG AMP),amp,L,medicamentos,56
+c949,LUMINALETAS,un,L,medicamentos,0
+c1155,MAXIDAUNO (MED.ONCOLOGICA),un,M,medicamentos,0
+c10232,MEDOCOR 20 MG COMP,comp,M,medicamentos,86
+c1164,MEDOCOR SL (ISOSORBIDE MONONITRATO),un,M,medicamentos,6
+c1201,MEPREDNISONA (CORTIPYREN - 8 MG COMP),comp,M,medicamentos,20
+c10402,MERCAPTOPURINA 50 MG COMP (MED.ONCOLOGICA),comp,M,medicamentos,0
+c979,MEROPENEM (1 G FA),un,M,medicamentos,298
+c1478,MEROPENEM 500 MG FA,un,M,medicamentos,0
+c10488,MESNA 200 MG AMP(MED.ONCOLOGICA),amp,M,medicamentos,0
+c1191,METILPREDNISOLONA (SOLUMEDROL) 500 MG INY FA,un,M,medicamentos,82
+c262,METOCLOPRAMIDA (10 MG AMP X 2 ML /RELIVERAN INY),amp,M,medicamentos,504
+c115,METOTREXATO 500 MG FA (MED.ONCOLOGICA),un,M,medicamentos,0
+c1395,METOTREXATO 50MG (MED.ONCOLOGICA),un,M,medicamentos,0
+c10173,METRONIDAZOL 500 MG (SACHET),un,M,medicamentos,175
+c950,METRONIDAZOL 500 MG COMP,comp,M,medicamentos,204
+c793,MIDAZOLAM (15 MG / 3 ML INY AMP) ++,amp,M,medicamentos,1530
+c1924,MILRINONA,un,M,medicamentos,9
+c952,MORFINA (10 MG A X 1 ML),un,M,medicamentos,5016
+c953,NALBUFINA (10 MG AMP X 1 ML) - (NUBAINA),amp,N,medicamentos,449
+c10771,"NALOXONA AMP (0,4 MG X 1 ML)",amp,N,medicamentos,57
+c781,NAPROXENO COMP (500 MG),comp,N,medicamentos,500
+c954,"NEOSTIGMINA (0,5 MG AMP X 1 ML)",amp,N,medicamentos,465
+c897,NIFEDIPINA COMP (30 MG) - ADALAT,comp,N,medicamentos,100
+cA1181,NIMODIPINA COMP (30 MG),comp,N,medicamentos,62
+c961,NISTATINA (SUSP ORAL X 60 ML),frasco,N,medicamentos,0
+c956,NITROGLICERINA (25 MG),un,N,medicamentos,134
+c10624,NITROPRUSIATO DE SODIO 50 MG AMP,amp,N,medicamentos,20
+c957,NORADRENALINA (4 MG AMP X 4 ML),amp,N,medicamentos,552
+c984,OCITOCINA 10 UI (X 1 ML),un,O,medicamentos,769
+c738,OCITOCINA 5 UI (X 1 ML),un,O,medicamentos,0
+c10735,OCTREOTIDA,un,O,medicamentos,0
+c898,OMEPRAZOL 40 MG FA,un,O,medicamentos,427
+c1687,ONCASPAR (PEG ASPARAGINASA 3750 UI) FA (MED.ONCOLOGICA),un,O,medicamentos,0
+c1985,ONDASETRON 4MG AMP,amp,O,medicamentos,520
+c1139,OXAPROST 75 MG,un,O,medicamentos,15
+c1986,PARACETAMOL 1 GR VO,un,P,medicamentos,571
+c1195,PARACETAMOL 10MG/ML EV AMP 50ML,amp,P,medicamentos,2
+c960,PARACETAMOL 500MG VO,un,P,medicamentos,0
+c1218,PARACETAMOL EV (500 MG) AMP,amp,P,medicamentos,10
+c1148,PENICILINA G SODICA,un,P,medicamentos,27
+c1058,PENTOTHAL SOD 1 GR,un,P,medicamentos,0
+c795,"PIPERACILINA TAZOBACTAN (4,5 G FA)",un,P,medicamentos,364
+c1226,PLAC OUT (COLUTORIO X 200 ML),un,P,medicamentos,2
+c1665,PLATSUL CREMA (400 GR),pomo,P,medicamentos,1
+c1689,PREDNISONA 50 MG COMP,comp,P,medicamentos,0
+c1171,PROGESTERONA COMP,comp,P,medicamentos,0
+c900,PROPOFOL AMP (200 MG X 20 ML),amp,P,medicamentos,1619
+c357,PROSTAGLANDINA 0.5 MG (ALPROSTADIL),un,P,medicamentos,0
+c1960,PROTAMINA,un,P,medicamentos,6
+c796,RANITIDINA (50 MG X 5 ML),un,R,medicamentos,1655
+c963,RANITIDINA COMP (150 MG),comp,R,medicamentos,0
+c797,REMIFENTANILO (5 MG FA),un,R,medicamentos,99
+c10759,RIFAMPICINA COMP,comp,R,medicamentos,24
+c758,RIFAMPICINA FCO AMP (60 MG),amp,R,medicamentos,0
+c1279,RIFAXIMINA,un,R,medicamentos,31
+c971,RIFOCINA SPRAY 30 ML (RIFAMICINA),un,R,medicamentos,0
+c1396,RITUXIMAB 100MG (MED.ONCOLOGICA),un,R,medicamentos,0
+c1397,RITUXIMAB 500MG (MED.ONCOLOGICA),un,R,medicamentos,0
+c1086,"SALBUTAMOL 0,5% 20 ML SOL PARA NEBULIZAR",frasco,S,medicamentos,6
+c965,SALBUTAMOL AEROSOL PUFF,un,S,medicamentos,18
+c1480,SEVOFLUORANO (SEVORANE),un,S,medicamentos,23
+c196,SOL GLUCOSADA HIPERT 25 % 10 ML,frasco,S,medicamentos,228
+c1194,SOL HIPERTONICA DE CL DE NA 20% SODIO,un,S,medicamentos,600
+c709,SOL. DE GLUCONATO DE CALCIO 10% AMP 20 ML,amp,S,medicamentos,145
+c1169,SOL. DEXTROSA AL 10% 500 ML SACHET,frasco,S,medicamentos,195
+c1168,SOL. DEXTROSA AL 5% 500 ML SACHET,frasco,S,medicamentos,1961
+c10215,"SOL. P/ DIALISIS PERITONEAL AL 2,5% X 2000ML+",frasco,S,medicamentos,0
+c1895,"SOL. P/DIALISIS PERITONEAL AL 1,5% X 2000",un,S,medicamentos,0
+c347,SOL. RINGER LACTATO X 500 ML SACHET,frasco,S,medicamentos,226
+c1167,SOL.FISIOLOGICA AL 0.9% 500 ML,frasco,S,medicamentos,4378
+c10268,SOLUCION MANITOL 15% (X 500 ML),frasco,S,medicamentos,45
+c981,SUCCINILCOLINA 500 MG FA,un,S,medicamentos,141
+c967,SUCRALFATO X 200 ML,un,S,medicamentos,15
+c980,SULFATO DE MAGNESIO,un,S,medicamentos,505
+c1039,SURFACTANTE B,un,S,medicamentos,5
+c10254,"TOBRAMICINA SOL OFT 0,3% X 5 ML",frasco,T,medicamentos,7
+c1752,TRIOSULES (FLUOROURACILO) 500 MG FCO AMP (MED.ONCOLOGICO),amp,T,medicamentos,0
+c230,VACOMICINA 500 AMP,amp,V,medicamentos,0
+c915,VANCOMICINA 1000 MG FA,un,V,medicamentos,299
+c1137,VASOPRESINA INY X 1 ML,un,V,medicamentos,20
+c812,VENTOLIN GOTAS,un,V,medicamentos,29
+c816,VENTOLIN PUFF,un,V,medicamentos,21
+c1684,VINCRISTINA 1 MG FCO AMP (MED. ONCOLOGICA),amp,V,medicamentos,0
+c972,VITAMINA B1 100 MG X 1 ML,un,V,medicamentos,0
+c913,VITAMINA B1 FUERTE AMP,amp,V,medicamentos,0
+c912,VITAMINA C AMP 1 G X 5 ML,amp,V,medicamentos,8
+c351,VITAMINA K 1 MG X 1 ML,un,V,medicamentos,321
+c970,VITAMINA K 10 MG X 1 ML,un,V,medicamentos,263
+c346,VOLUVEN,un,V,medicamentos,28
+c1704,VORICONAZOL 200 MG AMP,amp,V,medicamentos,0
